@@ -1,0 +1,26 @@
+[
+{ 
+    "nama" : "Dikka",
+    "umur" : 20,
+    "nim" : "2217020058",
+    "lulus" : "false",
+    "hobby" : [
+        "badminton",
+         "gaming"
+],
+    "pembimbing" : "Muhammad Teguh Brillian"
+
+},
+{ 
+    "nama" : "Hardilla",
+    "umur" : 21,
+    "nim" : "2217020058",
+    "lulus" : "false",
+    "hobby" : [
+        "badminton",
+         "gaming"
+],
+    "pembimbing" : "Muhammad Teguh Brillian"
+
+}
+]
