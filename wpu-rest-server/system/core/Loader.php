@@ -72,6 +72,7 @@ class CI_Loader {
 	public $load;
 	public $db;
 	public $session;
+	public $mahasiswa;
 
 
 	/**

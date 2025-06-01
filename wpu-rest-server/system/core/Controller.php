@@ -78,6 +78,7 @@ class CI_Controller {
 	public $lang;
 	public $db;
 	public $session;
+	public $mahasiswa;
 
 
 	/**
